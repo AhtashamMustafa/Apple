@@ -11,16 +11,26 @@ ul{
 }   
 li{margin-left: 50px;
 font-size: 13px;
-margin-top:4px ;}
+margin-top: 15px;}
 
 #applelogo{position: absolute;
-    margin-top: 4px;
+    margin-top: 14px;
     width: 2.5%;
     height: 2.5%;
     object-fit: contain;
     margin-left: 13%;
 }
 #navbar{background-color:#fafafc ;
-background-color: blue;
-padding: 10px;
 }
+#search{position: absolute;
+    margin-top: 1px;
+    width: 3%;
+    height: 3%;
+    object-fit: contain;
+    margin-left: 77%;}
+#bag{position: absolute;
+    margin-top: 14px;
+    width: 4%;
+    height: 4%;
+    object-fit: contain;
+    margin-left: 80%;}
