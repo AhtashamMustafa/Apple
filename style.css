@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0 ;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-left: 14%
+}   
+li{margin-left: 50px;
+font-size: 13px;
+margin-top:4px ;}
+
+#applelogo{position: absolute;
+    margin-top: 4px;
+    width: 2.5%;
+    height: 2.5%;
+    object-fit: contain;
+    margin-left: 13%;
+}
+#navbar{background-color:#fafafc ;
+background-color: blue;
+padding: 10px;
+}
