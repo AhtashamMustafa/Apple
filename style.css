@@ -7,30 +7,59 @@ ul{
     list-style-type: none;
     display: flex;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    margin-left: 14%
+    margin-left: 13%
 }   
-li{margin-left: 50px;
-font-size: 13px;
-margin-top: 15px;}
+li{
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: 15px;
+    color: #595959;
+}
 
-#applelogo{position: absolute;
-    margin-top: 14px;
-    width: 2.5%;
-    height: 2.5%;
-    object-fit: contain;
-    margin-left: 13%;
-}
-#navbar{background-color:#fafafc ;
-}
-#search{position: absolute;
-    margin-top: 1px;
-    width: 3%;
-    height: 3%;
-    object-fit: contain;
-    margin-left: 77%;}
-#bag{position: absolute;
+#applelogo{
+    position: absolute;
     margin-top: 14px;
     width: 4%;
     height: 4%;
     object-fit: contain;
-    margin-left: 80%;}
+    margin-left: 13%;
+}
+#navbar{
+    background-color:#fafafc ;
+    height: 45px;
+}
+#search{
+    position: absolute;
+    margin-top: 14px;
+    width: 2.8%;
+    height: 2.8%;
+    object-fit: contain;
+    margin-left: 63.5%;
+}
+#bag{position: absolute;
+    margin-top: 9px;
+    width: 4%;
+    height: 4%;
+    object-fit: contain;
+    margin-left: 66%;}
+#firstpara{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 16px;
+    display:inline-block ;
+    text-align: center;
+}
+a{
+    color: #2f6c9b;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:visited{
+    color: #2f6c9b;
+    text-decoration: none;
+    background-color: transparent;
+}   
+a:hover{
+    color: #2f6c9b;
+    text-decoration: underline;
+    background-color: transparent;
+}
