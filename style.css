@@ -4,28 +4,47 @@
     margin: 0;
 }
 #mainnavbar{
-    background-color: #fafafc;
-    padding: 20px;
-    display: flex;
+    background-color: #424244;
+    padding: 15px;
+    width: 100%;
+    position: fixed;
 }
 #shortnavbar{
-    width: 50%;
-    background-color: blueviolet;
-    display: flex;
+    width: 65%;
+    margin: 0 auto;
 }
 #applelogo{
-    height: 50px;
-    width: 50px;
+    height: 16px;
+    width: 16px;
     position: absolute;
-    display: ;
+    margin-left: -64px;
+    margin-top: -3px;
 }
 #search{
-    height: 10px;
-    width: 10px;
+    height: 16px;
+    width: 16px;
     position: absolute;
+    margin-left: 880px;
+    margin-top: -13px;
 }
 #bag{
-    height: 10px;
-    width: 10px;
+    height: 23px;
+    width: 23px;
     position: absolute;
+    margin-left: 920px;
+    margin-top: -18px;
+}
+#list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-content: row wrap;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #d9d9d9;
+    font-size: 11px;
+    margin-left: -35px;
+}
+pic0{
+    width: 100%;
+    height: fit-content;
 }
