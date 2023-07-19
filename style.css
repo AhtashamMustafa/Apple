@@ -4,7 +4,7 @@
     margin: 0;
 }
 #mainnavbar{
-    background-color: #424244;
+    background-color: #C8C8CA;
     padding: 15px;
     width: 100%;
     position: fixed;
@@ -40,11 +40,29 @@
     justify-content: space-around;
     align-content: row wrap;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    color: #d9d9d9;
+    color: #282828;
     font-size: 11px;
     margin-left: -35px;
 }
-pic0{
-    width: 100%;
-    height: fit-content;
+#firstsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./Asset/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    color: white;
+}
+#para1{
+    margin-top: 90px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+#para2{
+    font-size: 28px;
+    /* font-weight: bold; */
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
