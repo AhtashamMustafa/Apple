@@ -25,14 +25,14 @@
     width: 16px;
     position: absolute;
     margin-left: 870px;
-    margin-top: -17px;
+    margin-top: -18px;
 }
 #bag{
     height: 23px;
     width: 23px;
     position: absolute;
     margin-left: 910px;
-    margin-top: -22px;
+    margin-top: -23px;
 }
 #list{
     list-style: none;
@@ -306,10 +306,240 @@
 }
 #para24{
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    margin-top: 12px;
-    /* margin-left: 270px; */
+    margin-top: 20px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 20px;
+}
+#sixthsection{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    color: black;
+    margin-top: 13px;
+}
+#sixthsection1{
+    background-image: url(./Asset/promo_hello_kitty__cv6gojq3rd8i_medium.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#para25{
+    margin-top: 70px;
+    margin-left: 270px;
+}
+#arcade{
+    scale: 1.1;
+}
+#arrow{
+    transform: rotate(40deg);
+    height: 12px;
+    width: 12px;
+}
+#para26{
+    font-size: 18px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 7px;
+    margin-left: 31%;
+}
+#para27{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 12px;
+    font-size: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+.blacklearnmore{
+    color: #1D1D1F;
+    text-decoration: none;
+    font-size:15px ;
+}
+.blacklearnmore:hover{
+    text-decoration: underline;
+}
+#sixthsection2{
+    background-image: url(./Asset/card.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 49%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#para28{
+    margin-top: 60px;
+    margin-left: 47%;
+    scale: 1.2;   
+}
+#para29{
+    font-size: 18px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 15px;
+    margin-left: 33%;
+}
+#para30{
+    font-size: 18px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 5px;
+    margin-left: 37%;
+}
+#para31{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+#slider{
+    margin-top: 13px;
+}
+#footer{
+    background-color: #F5F5F7;
+    height: 600px;
+    margin-top: 13px;
+}
+#para32{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para33{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para34{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para35{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para36{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para37{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para38{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para39{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para40{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para41{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+#para42{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+hr{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    opacity: 80%;
+}
+.footer{
+    background-color: #F5F5F7;
+    height: 500px;    
+}
+.li{
+    list-style: none;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    width: 100%;
+    color: #878585;
+    font-size: 12px;
+    margin-top: 14px;
+}
+#footer1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 80px;
+}
+#list1{
+    margin-top: -60px;
+}
+#list2{
+    margin-top: -60px;
+}
+#list3{
+    margin-top: -60px;
+}
+#list4{
+    margin-top: -60px;
+}
+#list5{
+    margin-top: -60px;
+}
+.bold{
+    font-size: 13px;
+    font-weight: bolder;
+    color: #1D1D1F;
+    opacity: 80%;
+    margin-top: 20px;
+}
+#para43{
+    width: 70%;
+    margin: auto;
+    color: #878585;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+}
+.location{
+    color: #2790F4;
+}
+#lastdiv{
+    margin-bottom: 10px;
 }
